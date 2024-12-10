@@ -74,4 +74,4 @@ python3 hello.py
 
 And if it prints Hello World, You're all set!
 
-[If you want further examples, Apache provides them here](https://github.com/apache/ignite-python-thin-client/tree/master/examples)
+[If you want further examples, we have written some here!](examples)
