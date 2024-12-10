@@ -25,4 +25,4 @@ Ignite's last stable release was in December of 2023, with the current version n
 
 Ignite is still under active development, with  a virtual summit in February of 2025. The GitHub is active with commits being made daily and Issues being opened and responded to.
 
-### Ready to get started? Check out [The installation guide!](docs/guide.md)
+### Ready to get started? Check out [the installation guide!](https://github.com/VitoValenzano/Project_2_350/blob/main/docs/guide.md)
