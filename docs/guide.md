@@ -1,4 +1,4 @@
-# Apache Ignite with Python on Ubuntu 22.04
+# Installing Apache Ignite with Python on Ubuntu 22.04
 ## Prerequisites
 To get started, ensure that you have a working WSL, distribution installed on your device. If you don't have WSL, open a PowerShell  (Or terminal on Windows 11) window as admin and run
 ```
